@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "52184729789",
+    "firebase_url": "https://windy-dd018.firebaseio.com",
+    "project_id": "windy-dd018",
+    "storage_bucket": "windy-dd018.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52184729789:android:64160ff28a4cb2c4",
+        "android_client_info": {
+          "package_name": "com.example.windy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52184729789-p0qpi0n9hfn4fjonu0r1at79mp3012br.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.windy",
+            "certificate_hash": "cc7f238f1dfaf3db8c383d8e6f7081dbbc997937"
+          }
+        },
+        {
+          "client_id": "52184729789-kacpo5v8p7lerpkap8alc0f9nn21olka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZWdCBYgSPGLFEA5iyHfGv3ot3B2mtQKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52184729789-kacpo5v8p7lerpkap8alc0f9nn21olka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
